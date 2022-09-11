@@ -1,5 +1,6 @@
 # bikesharing UPDATED READ ME FOR RE-SUBMISSION
 
+https://public.tableau.com/views/CitiBikeProposal_16629152959850/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## Overview
 This project consisted on creating a pitch for a citi bikesharing business proposal for investors looking to seed fund. The goal was to look at citi bike data in New York City on the month of august to look how this bikesharing business operates in its prime during summer. 
